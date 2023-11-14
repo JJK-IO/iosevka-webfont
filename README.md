@@ -1,6 +1,6 @@
 ## How to use
 
-- Add `<link href="https://pvinis.github.io/iosevka-webfont/3.4.1/iosevka.css" rel="stylesheet" />` (or use any other version available in this repo).
+- Add `<link href="https://jjk-io.github.io/iosevka-webfont/7.0.2/iosevka.css" rel="stylesheet" />` (or use any other version available in this repo).
 - Use `fontFamily: 'Iosevka Web'` or `font-family: 'Iosevka Web'`.
 
 ## How to add a new version
